@@ -1,5 +1,5 @@
 ### Python_Study
 ---
-#python project
+# python project
 
 i am studying
