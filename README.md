@@ -1,2 +1,5 @@
-# Python_Study
-python project
+### Python_Study
+---
+#python project
+
+i am studying
